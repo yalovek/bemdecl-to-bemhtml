@@ -1,0 +1,15 @@
+{
+  "name": "bemdecl-to-bemhmtl",
+  "version": "1.0.0",
+  "description": "Bemdecl to bemhmtl",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vadim Yalovenko <yalovek@ya.ru>",
+  "license": "MIT",
+  "dependencies": {
+    "bem-fs-scheme": "^1.0.0",
+    "stringify-object": "^2.4.0"
+  }
+}
